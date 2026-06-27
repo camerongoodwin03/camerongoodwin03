@@ -22,7 +22,7 @@
 | --- | --- | --- | --- | --- |
 | [**Hybrid Identity & Azure Infrastructure Lab**](https://github.com/camerongoodwin03/hybrid-identity-lab) | Screenshots Included | Deployed enterprise Active Directory on Azure, configured hybrid identity sync via Microsoft Entra Connect, enforced Zero Trust security controls through Conditional Access and MFA, and completed 4 real-world IT support troubleshooting scenarios including sync failure, user access revocation, MFA onboarding, and license management. | Azure · Windows Server · AD DS · Entra ID · M365 · PowerShell | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 | [**PowerShell Automation & M365 Administration Lab**](https://github.com/camerongoodwin03/powershell-m365-lab) | Screenshots Included | Automated full user lifecycle workflows in PowerShell — account creation, security group assignment, account deprovisioning. Connected PowerShell to Exchange Online to create shared mailboxes, manage distribution groups, and delegate permissions. Built a master onboarding script executing the complete new hire workflow in a single command. | PowerShell · M365 E5 · Exchange Online · Entra ID · Active Directory | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
-| **IT Service Management & Ticketing Lab** | | Deploying osTicket on an Azure VM and documenting a full enterprise incident lifecycle — ticket creation, triage, escalation, resolution, and closure — aligned to ITIL 4 service management principles. | osTicket · Azure VM · ITIL 4 | ![In Progress](https://img.shields.io/badge/In_Progress-e3a008?style=flat-square) |
+| [**IT Service Management & Ticketing Lab**](https://github.com/camerongoodwin03/osticket-itsm-lab) | Screenshots Included | Deployed osTicket on an Azure VM and documented a full enterprise incident lifecycle — ticket creation, triage, escalation, resolution, and closure — aligned to ITIL 4 service management principles. Simulated real helpdesk workflows including SLA tracking, priority classification, and knowledge base documentation. | osTicket · Azure VM · ITIL 4 | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 
 ---
 
@@ -34,7 +34,7 @@
 | **Identity & Access** | Microsoft Entra ID · Active Directory · Azure AD Connect · MFA · Conditional Access |
 | **M365 Administration** | Microsoft 365 · Exchange Online · License Management · Shared Mailboxes · Distribution Groups |
 | **Automation** | PowerShell · User lifecycle automation · ADSync management · Exchange Online management |
-| **IT Support** | ITIL 4 · Incident Documentation · Root Cause Analysis · Technical Troubleshooting |
+| **IT Support** | ITIL 4 · osTicket · Incident Management · Root Cause Analysis · Technical Troubleshooting |
 
 ---
 
